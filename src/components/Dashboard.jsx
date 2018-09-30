@@ -7,12 +7,12 @@ class Dashboard extends Component {
         super();
     }
 
-    render() {
-        return (
+    render(){
+        return(
             <div>
                 Dashboard!!!
             </div>
-        );
+        )
     }
 }
 
